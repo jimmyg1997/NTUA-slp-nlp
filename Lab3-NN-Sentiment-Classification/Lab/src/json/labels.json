@@ -1,0 +1,14 @@
+{
+  "2":  {
+    "name": "positive",
+    "desc": "really_liked_it"
+  },
+  "0":  {
+    "name": "negative",
+    "desc": "really_hate_it"
+  },
+  "1":  {
+    "name": "neutral",
+    "desc": "dont_care"
+  }
+}
