@@ -17,6 +17,4 @@ The design of the system could further be splitted in the following steps:
   * Evaluation of the different models
   * Answers for the questions set in the **project-description**
   
-* utt2spk.py, wav-scp.py, text.py, text2phonem.py: Scripts to create the text files needed by KALDI to train language \& acoustic model
-
-* cmd.sh, path.sh: KALDI scripts that should be placed in the project folder.
+* **cmd.sh, path.sh**: KALDI scripts that should be placed in the project folder.
