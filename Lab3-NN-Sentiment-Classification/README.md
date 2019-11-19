@@ -11,8 +11,8 @@ heard if you have been in the Tech field long enough. It is the process of ‘co
  **Note** : [Keras Library](https://keras.io/) can also be used for testing sequential deep learning models.
 
 ## Datasets
-* **Sentence Polarity Dataset 2 ** : This dataset contains 5331 positive and 5331 negative movie reviews, from Rotten Tomatoes and it is a binary classification problem (positive, negative).
-* ** Semeval 2017 Task4-A 3** : This dataset contains tweets that are classified in 3 classes (positive, negative, neutral) with 49570 training examples and 12284 test examples.
+* **Sentence Polarity Dataset 2** : This dataset contains 5331 positive and 5331 negative movie reviews, from Rotten Tomatoes and it is a binary classification problem (positive, negative).
+* **Semeval 2017 Task4-A 3** : This dataset contains tweets that are classified in 3 classes (positive, negative, neutral) with 49570 training examples and 12284 test examples.
 
 ## Preparation Lab
 A really simple Neural Network (NN) was implemented to get used to Pytorch.
