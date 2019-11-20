@@ -1,5 +1,5 @@
 # 💻Speech and Natural Language Processing (SLP & NLP) : Lab Exercises
-This repository contains the Assignments for ECE NTUA course "Speech and Natural Language Processing (SLP & NLP)".
+This repository contains the Assignments for ECE NTUA course *Speech and Natural Language Processing (SLP & NLP)*
 ## Contents:
 * **Lab 1: Introduction in language representations**
 * **Lab 2: Implementation of a speech recognition system using the KALDI toolkit**
